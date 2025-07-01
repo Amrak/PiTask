@@ -1,22 +1,4 @@
-pitask/
-├─ src/
-│   ├─ components/
-│   │   ├─ Home.jsx
-│   │   ├─ TaskMarketplace.jsx
-│   │   ├─ PostTask.jsx
-│   │   ├─ Dashboard.jsx
-│   │   ├─ ReferralCenter.jsx
-│   │   ├─ AdminPanel.jsx
-│   │   └─ WalletSimulator.jsx
-│   ├─ backend/
-│   │   ├─ taskService.js
-│   │   └─ referralService.js
-│   ├─ firebaseConfig.js
-│   ├─ piWalletMock.js
-│   └─ App.jsx
-├─ package.json
-├─ tailwind.config.js (optional)
-└─ README.md (with setup steps)
+
 # PiTask – Decentralized Task Marketplace on Pi Network
 
 **PiTask** is a Web3-enabled decentralized microtask platform where users can earn Pi cryptocurrency for completing real-world tasks. Built with React, Firebase, and a mock Pi Network Wallet SDK integration, it also features a modular smart contract scaffold and an admin dashboard.
