@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-> _Coming soon: [Vercel/Firebase-hosted demo link here]_  
+> _Coming soon: [https://pitask.vercel.app]_  
 
 ---
 
